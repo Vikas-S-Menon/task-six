@@ -1,0 +1,7 @@
+1. Go to www.google.com.
+2. Type Azure in search bar.
+3. Select the Microsoft Azure which will be the first search result.
+4. After selecting Microsoft Azure, Select "try Azure for free" and it will go to Create account page.
+5. If you have a previous created on, Logging using the Account gmail and password or Create a new account with gmail.
+6. After creating account, a details entering dialog box open-up and enter the required details.
+7. After providing the details anf finishing Sign-up, it will take to your azure account.
